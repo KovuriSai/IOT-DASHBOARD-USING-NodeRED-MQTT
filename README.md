@@ -126,7 +126,7 @@ DHT22 → ESP32 connection
 | ----- | ------------- |
 | VCC   | 3.3V          |
 | GND   | GND           |
-| DATA  | GPIO 4        |
+| DATA  | GPIO 9        |
 | NC    | Not Connected |
 
 Four pin DHT22 sensor is used.
