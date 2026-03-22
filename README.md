@@ -1,14 +1,3 @@
-<img width="972" height="282" alt="image" src="https://github.com/user-attachments/assets/5b1bd539-ffcf-4b6f-94b6-bbeb9e241038" />
-
-
-
-Here is an improved **README.md** for your GitHub project.
-I kept your **Node-RED import flow exactly same** ✅ and only improved the remaining text, added explanation about **MQTT, Node-RED, Dashboard, Project overview, Working principle, Features, Output**, etc.
-
-You can copy this directly into **README.md**.
-
----
-
 # 📡 ESP32 + DHT22 + MQTT + Node-RED Dashboard
 
 <img width="972" height="282" alt="image" src="https://github.com/user-attachments/assets/5b1bd539-ffcf-4b6f-94b6-bbeb9e241038" />
